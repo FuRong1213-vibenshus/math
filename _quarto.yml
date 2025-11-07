@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Matematik Projekter"
+  title: "Matematik (2025-2028)"
   navbar:
     left:
       - text: "Home"
@@ -13,10 +13,12 @@ website:
         menu:
           - text: "Jacobsstav"
             href: projects/jacobsstav_geometri_trigonometri.qmd
-      - text: "homework"
+      - text: "Homework"
         menu:
           - text: "Homework 1"
             href: homework/hjemmeopg_1/hjemmeopg_1.qmd
+          - text: "Homework 2"
+            href: homework/hjemmeopg_2/hjemmeopg_2.qmd
       - text: "disposition"
         menu:
           - text: "Geometri og Trigonometri"

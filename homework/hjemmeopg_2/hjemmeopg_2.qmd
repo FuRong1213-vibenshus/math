@@ -1,0 +1,9 @@
+---
+title: "Hjemmeaflevering 2"
+format:
+  pdf:
+    number-sections: true
+    colorlinks: true
+---
+
+## Opgave 1
