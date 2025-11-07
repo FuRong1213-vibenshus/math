@@ -1,0 +1,67 @@
+---
+title: "Hjemmeaflevering 1"
+format:
+  pdf:
+    number-sections: true
+    colorlinks: true
+---
+
+
+# Færdighedsregning
+
+## Parenteser
+
+- (**Mat B htx**) opgave 1.3.1, 1.3.2, 1.3.4, 1.3.6, 1.3.7
+
+## Brøker
+
+- (**Mat B htx**) opgave 1.4.3, 1.4.4, 1.4.10 
+
+## Reduktion
+
+- (**Mat B htx**) opgave 1.5.6, 1.5.10
+
+{{< pagebreak >}}
+
+# Trekant og trigonometri
+## Opgave 1
+
+Vi har to retvinklede trekanter.
+
+![](./Screenshot%20from%202025-11-06%2011-59-59.png){width=60%}
+
+1. Bestem dem ukendte vinkel, den ukendte katete og den ukendte hypotenuse i begge trekanter.
+
+## Opgave 2
+Vi har to retvinklede trekanter.
+
+![](./Screenshot%20from%202025-11-06%2012-00-07.png){width=60%}
+
+1. Bestem dem ukendte side og de ukendte vinkler i de to trekanter.
+
+## Opgave 3
+
+På et kort er målestoksforholdet 1:200000.
+
+1. På kortet måles afstanden mellem to byer til 15 cm. Bestem afstanden i virkeligheden.
+2. I virkeligheden er afstanden mellem to byer 100 km. Bestem afstanden mellem de to byer på kortet.
+
+## Opgave 4
+
+Trekanterne *ABC* og *ADE* er ensvinklede. Noget af trekanternes mål er |AB| = 5, |AD| = 15, |BC| = 6 og |AE| = 12.
+
+
+1. Bestem skaleringsfaktoren (forholdet) mellem de to ensvinklede trekanter.
+2. Bestem siderne |AC| og |DE|.
+
+## Opgave 5
+En afstand over en sø skal bestemmes.
+
+![](./Screenshot%20from%202025-11-06%2012-21-10.png){width=60%}
+
+1. Bestem afstanden AB, når AB og CD er parallelle.
+
+## Opgave 6
+
+Man har et banbusrør, som er 10 ch'ih højt. Det er knækket, og den øverste ende rører jorden 3 ch'ih væk fra roden. Find højden af knækket.
+

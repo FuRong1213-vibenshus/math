@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Matematik Projekter"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Projects"
+        menu:
+          - text: "Jacobsstav"
+            href: projects/jacobsstav_geometri_trigonometri.qmd
+      - text: "homework"
+        menu:
+          - text: "Homework 1"
+            href: homework/homework1.qmd
+      - text: "disposition"
+        menu:
+          - text: "Geometri og Trigonometri"
+            href: disposition/disposition1.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
