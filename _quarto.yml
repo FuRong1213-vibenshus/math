@@ -16,7 +16,7 @@ website:
       - text: "homework"
         menu:
           - text: "Homework 1"
-            href: homework/homework1.qmd
+            href: homework/hjemmeopg_1/hjemmeopg_1.qmd
       - text: "disposition"
         menu:
           - text: "Geometri og Trigonometri"
