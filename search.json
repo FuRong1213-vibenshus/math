@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "projects/jacobsstav_geometri_trigonometri.html",
-    "href": "projects/jacobsstav_geometri_trigonometri.html",
-    "title": "Mit Første Projekt",
-    "section": "",
-    "text": "Introduktion"
-  },
-  {
     "objectID": "disposition/disposition1.html",
     "href": "disposition/disposition1.html",
     "title": "Jacobsstav",
@@ -26,5 +19,12 @@
     "title": "Jacobsstav",
     "section": "",
     "text": "Din rapport skal indeholde: 1. Forside og kort introduktion til projektet\n2. Teori og bevis for formlerne\n3. Beregninger og resultater (tabel + udregninger)\n4. En beskrivelse af dit praktiske forsøg (instrument, metode, data)\n5. Analyse af usikkerhed og vurdering af resultaterne\n6. Konklusion"
+  },
+  {
+    "objectID": "projects/jacobsstav_geometri_trigonometri.html",
+    "href": "projects/jacobsstav_geometri_trigonometri.html",
+    "title": "Mit Første Projekt",
+    "section": "",
+    "text": "Introduktion"
   }
 ]
