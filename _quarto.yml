@@ -7,8 +7,10 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "About"
-        href: about.qmd
+      - text: "Information"
+        menu: 
+          - text: "Repetition"
+            href: information/ugentlig_repetition.qmd
       - text: "Projects"
         menu:
           - text: "Jacobsstav"
@@ -19,7 +21,7 @@ website:
             href: homework/hjemmeopg_1/hjemmeopg_1.qmd
           - text: "Homework 2"
             href: homework/hjemmeopg_2/hjemmeopg_2.qmd
-      - text: "disposition"
+      - text: "Disposition"
         menu:
           - text: "Geometri og Trigonometri"
             href: disposition/disposition1.qmd

@@ -1,0 +1,42 @@
+---
+title: " Ugentlig repetition i matematik"
+format:
+  pdf:
+    number-sections: true
+    colorlinks: true
+---
+
+
+## Forberedelse (før timen)
+
+1. **Vælg de vigtigste emner**
+
+   - Hvad arbejdede vi med sidste uge?  
+   - Hvilke begreber, metoder eller formler var centrale?  
+
+2. **Lav 3–5 nøglepunkter**
+   
+   - Kort forklaring af hvert punkt.  
+   - Gerne med en illustration, tabel eller formel.
+
+3. **Find eller lav ét eksempel**
+   
+   - Brug en opgave fra undervisningen eller lav en ny.  
+   - Forklar trin-for-trin, hvordan man løser den.
+
+4. **Lav en miniaktivitet (valgfrit men anbefalet)**
+   
+   - Fx 3 hurtige spørgsmål, mini-Kahoot, “find fejlen”-opgave eller lille quiz.  
+   - Må tage 2–3 minutter.
+
+
+##  Præsentationen (5–10 minutter)
+
+1. **Intro:** Kort præsentation af emnet (1 min)  
+2. **Gennemgang:** Nøglepunkter og vigtigste begreber (2–3 min)  
+3. **Eksempel:** Løs én opgave trin-for-trin (2–3 min)  
+4. **Aktivitet:** Stil klassen spørgsmål / lav lille quiz (2–3 min)  
+5. **Opsummering:** Hvad skal man huske fra emnet? (1 min)
+
+
+
