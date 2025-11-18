@@ -14,7 +14,7 @@ website:
       - text: "Projects"
         menu:
           - text: "Jacobsstav"
-            href: projects/Jakobsstav_geometri/jacobsstav_geometri_trigonometri.qmd
+            href: projects/Jakobsstav_geometri/projekt.qmd
       - text: "Homework"
         menu:
           - text: "Homework 1"
