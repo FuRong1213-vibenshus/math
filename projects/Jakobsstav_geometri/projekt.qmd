@@ -1,0 +1,94 @@
+---
+title: Jakobsstav
+bibliography: references.bib
+format: 
+    pdf:
+        colorlinks: true
+        number-sections: true
+--- 
+
+I dette projekt skal I arbejde med geometri og trigonometri og lære, hvordan man kan bruge en **Jakobsstav** (et simpelt måleinstrument fra middelalderen) til at måle vinkler og afstande. 
+
+## Teori
+
+- Opgave 1: Ligedannede trekanter
+
+1. Forklar, hvad det betyder, at to trekanter er ligedannede.
+2. Vis, hvordan man kan bruge ligedannede trekanter til af finde en ukendt side af trekant.
+
+- Opgave 2: Enhedscirklen og trigonometri
+
+1. Tegn en **enhedscirkel** og forklar definition af **cosinus**,**sinus** og **tangens**.
+2. Forklar sammenhængen mellem vinkler og sider i retvinklet trekant og sinus cosinus og tangent.
+3. Bevis sinusrelationerne og cosinusrelationerne.
+
+## Jakobsstav og solhøjde
+
+- Opgave 1
+1.  Læs artiklen [@jakobsstav_beskriv] og [@jakobsstav_historie]. Beskriv med egne ord, hvad en Jacobsstav bruges til, og hvordan den har været anvendt historisk.
+
+2. Forklar `solhøjde` og `zenitdistance`. Hvilken af dem aflæser man direkte på jakobsstaven?
+
+
+- Opgave 2
+
+1. Brug figuren og formlen i dokumentet til at vise, at
+
+![](Screenshot%20from%202025-11-18%2014-02-33.png)
+$$ 
+tan(\frac{v}{2}) = \frac{a/2}{x} \Leftrightarrow x = \frac{a}{2\cdot tan(\frac{v}{2})}
+$$
+
+Hvor $a$ er tværstavens længde og $v$ den vinkel, man vil kunne måle.
+
+
+- Opgave 3
+
+I artiklen @jakobsstav_beskriv, findes der en opgave:
+
+*Man kan kontrollere at skalaen er rigtigt indrettet i forhold til tværstavens længde på de skalaer, der har både et 30 graders og et 60 graders mærke. 
+Afstanden mellem 30 og 60 skal simpelthen være lig med den tilhørende tværstavs længde.*
+
+Hvorfor er det rigtigt?
+
+![](Screenshot%20from%202025-11-18%2014-21-23.png)
+
+
+- Opgave 4
+
+1. Brug formlen ovenfor og beregn, hvor langt fra øjet (på skalastaven) mærket skal sættes for vinklerne:
+$$v = 40^{\circ}, 50^{\circ}, 60^{\circ}, 70^{\circ}, 80^{\circ}, 90^{\circ}$$
+
+    Udfyld tabellen herunder med dine beregninger (afrund til 0,1 cm)
+
+|Vinkel v ($\circ$) |tan(v) |x     |
+|---------|-------|------|
+|  40     |       |      |
+|  50     |       |      |
+|  60     |       |      |
+|  70     |       |      |
+|  80     |       |      |
+|  90     |       |      |
+
+2. Forklar, hvorfor det giver mening, at vinklen bliver større når afstanden $x$ bliver kortere. 
+3. Hvordan viser det sig, at skalaen på Jakobsstaven ikke er lineær? (dvs. afstanden mellem mærker ikke er lige)
+
+
+### Bonus opgaver
+
+1. Lav jeres egen Jakobsstav af træ eller pap. Find en skyfri dag til at måle solhøjden. 
+2. Lav en GeoGebra-model af Jakobsstaven, hvor man kan flytte tværstaven og se, hvordan vinklen ændre sig.
+
+
+## Krav til et matematikprojekt
+
+1. Inden selve opgaverne besvares skal der være et teoriafsnit i starten af besvarelsen. I dette
+afsnit skal der som minimum være en beskrivelse af de formler, som er relevante for løsningen af
+opgaverne og for emnet. Hvis afsnittet skal være rigtig godt, så skal der også være udledningerne
+af alle eller udvalgte formler.
+2. Når opgaverne besvares skal der være mange forklaringer med, som beskriver jeres løsningsstrategier og der skal selvfølgelig også være en passende mængde mellemregninger.
+3. Det kan være en god idé at have små delkonklusioner til hver opgave, hvor man lige opridser sin løsning og overvejer om de virker realistiske.
+
+### References
+::: {#refs}
+:::
