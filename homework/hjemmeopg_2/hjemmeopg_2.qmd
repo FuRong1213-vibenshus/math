@@ -6,4 +6,64 @@ format:
     colorlinks: true
 ---
 
+
+# Færdighedsregning
+
+## Kvadratsætningerne
+
+- (**Mat B htx**) opgave 1.6.2, 1.6.4, 1.6.6
+
+## Rod
+- (**Mat B htx**) opgave 1.8.2, 1.8.4, 1.8.10
+
+## To ligninger med to ubekendte
+
+- (**Mat B htx**) opgave 2.4.1, 2.4.2
+
+## Vinkelberegninger i den retvinklede trekant
+
+- (**Mat B htx**) opgave 3.2.3, 3.2.5
+
+{{< pagebreak >}}
+
+# Trekant og trigonometri
 ## Opgave 1
+
+![](./Screenshot%20from%202025-11-12%2013-55-36.png){width=60%}
+
+På figuren ses $\triangle ABC$, hvor $\angle C = 90^{\circ}$. Bestem længderne $|AH|$ og $|BH|$.
+
+
+## Opgave 2
+
+Beregn de ubekendte stykker i $\triangle ABC$, når det er givet, at
+
+
+1. $A=46^{\circ}$, $a=2,29$ og $b=2,71$
+2. $c=72$, $B=48^{\circ}$ og $a=68$
+
+## Opgave 3
+
+![](./Screenshot%20from%202025-11-12%2013-56-05.png){width=60%}
+
+Vinkelspidserne i $\triangle ABC$ ligger på sidderne af to kvadrater, hvor $B$ og $C$ er midtpunkterne af siderne i kvardraterne som vist på figuren. Bestem trekantens vinkler.
+
+## Opgave 4
+
+![](./Screenshot%20from%202025-11-12%2013-54-44.png){width=85%}
+
+En gondolbane går fra bjergtoppen $P$ over en dal til bjergtoppen $Q$. Den bevæger sig med en fart på 3 m/s, og turen varer 15 min. Linjen $PQ$ danner en vinkel på $13^{\circ}$ med vandret. $P$ ligger 1450m over havet overflade. I hvilken højde ligger $Q$?
+
+## Opgave 5
+
+**Mat B htx** 3.2.8
+
+## Opgave 6*(valgfri)
+
+![](./Screenshot%20from%202025-11-12%2013-56-28.png){width=85%}
+
+Billedet viser en cykelvoerdækning, der er bygget op a flere sektioner. Figuren viser den geometriske opbygning af en sektion af rørkonstruktionen, hvor de vandrette og lodrette mål er påført.
+
+1. Bestem vinkel $v$, som er vinklen mellem det øverste rørstykke og vandret. 
+2. Bestem højden $h$. 
+3. Bestem den samlede længde af rør, der medgår i en sektion.
