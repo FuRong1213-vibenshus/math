@@ -9,22 +9,71 @@
   {
     "objectID": "disposition/disposition1.html",
     "href": "disposition/disposition1.html",
-    "title": "Jacobsstav",
+    "title": "Geometri og trigonometri",
     "section": "",
-    "text": "Jacobsstaven blev brugt fra 1300-tallet og frem til 1700-tallet til at måle solens højde over horisonten og dermed bestemme breddegrad til søs.\nInstrumentet fungerer efter de samme principper som trigonometri i retvinklede trekanter: sammenhængen mellem vinkel, afstand og højde.\n\n\nFølgende punkter skal ses som mulige ting at skrive om i opgaven. Du skal ikke skrive om det hele, men vælge noget ud, som du kan forstå og forklare.\n\nForklaring af hvad der forstås ved målestoksforholdet.\nDefinition af sinus, cosinus og tangens - ud fra enhedscirklen og ud fra den retvinklede trekant.\nBeregning af sider og vinkler i den retvinklede trekant.\nBeregning af sider og vinkler i den vilkårlige trekant.\nUdledning af formlen til beregning af areal af en trekant.\nUdledning af sinusrelationen.\nUdledning af cosinusrelationerne.\n\n\n\n\n\n\n\nDin rapport skal indeholde: 1. Forside og kort introduktion til projektet\n2. Teori og bevis for formlerne\n3. Beregninger og resultater (tabel + udregninger)\n4. En beskrivelse af dit praktiske forsøg (instrument, metode, data)\n5. Analyse af usikkerhed og vurdering af resultaterne\n6. Konklusion"
+    "text": "størrelser\nhjørner, vinkelspidser, sider\nHøjder, medianer, vinkelhalveringslinjer\n\n\n\n\nKateter, hypotenusen\nPythagoras’ læresætning\n\nbevis\n\n\n\n\n\n\nensvinklede, ligedannede\nmålestoksoforholdet, proportionale"
   },
   {
-    "objectID": "disposition/disposition1.html#opgave-1-teori-og-begreber",
-    "href": "disposition/disposition1.html#opgave-1-teori-og-begreber",
-    "title": "Jacobsstav",
+    "objectID": "disposition/disposition1.html#trekanten",
+    "href": "disposition/disposition1.html#trekanten",
+    "title": "Geometri og trigonometri",
     "section": "",
-    "text": "Følgende punkter skal ses som mulige ting at skrive om i opgaven. Du skal ikke skrive om det hele, men vælge noget ud, som du kan forstå og forklare.\n\nForklaring af hvad der forstås ved målestoksforholdet.\nDefinition af sinus, cosinus og tangens - ud fra enhedscirklen og ud fra den retvinklede trekant.\nBeregning af sider og vinkler i den retvinklede trekant.\nBeregning af sider og vinkler i den vilkårlige trekant.\nUdledning af formlen til beregning af areal af en trekant.\nUdledning af sinusrelationen.\nUdledning af cosinusrelationerne."
+    "text": "størrelser\nhjørner, vinkelspidser, sider\nHøjder, medianer, vinkelhalveringslinjer\n\n\n\n\nKateter, hypotenusen\nPythagoras’ læresætning\n\nbevis\n\n\n\n\n\n\nensvinklede, ligedannede\nmålestoksoforholdet, proportionale"
   },
   {
-    "objectID": "disposition/disposition1.html#rapportkrav",
-    "href": "disposition/disposition1.html#rapportkrav",
-    "title": "Jacobsstav",
-    "section": "",
-    "text": "Din rapport skal indeholde: 1. Forside og kort introduktion til projektet\n2. Teori og bevis for formlerne\n3. Beregninger og resultater (tabel + udregninger)\n4. En beskrivelse af dit praktiske forsøg (instrument, metode, data)\n5. Analyse af usikkerhed og vurdering af resultaterne\n6. Konklusion"
+    "objectID": "disposition/disposition1.html#cosinus-sinus-og-tangens",
+    "href": "disposition/disposition1.html#cosinus-sinus-og-tangens",
+    "title": "Geometri og trigonometri",
+    "section": "Cosinus, sinus og tangens",
+    "text": "Cosinus, sinus og tangens\n\nEnhedscirklen\nDefinition af cosinus, sinus og tangens\nsammenhæng mellem cosinus, sinus og tangens\n\n\nEnhedscirklen\n\ndefinitionen\nretningspunkt P\n\n\n\nCosinus, sinus og tangens\n\ndefinitionen og omløbretninger\nvinkler med fortegn\ngrundrelationen\nRadianer og grader"
+  },
+  {
+    "objectID": "disposition/disposition1.html#gruppe-1",
+    "href": "disposition/disposition1.html#gruppe-1",
+    "title": "Geometri og trigonometri",
+    "section": "Gruppe 1",
+    "text": "Gruppe 1\n\nArealet af en vilkårlig trekant\n\nSætning 3.5.1\nEksempel 3.5.1\n\n\n\nCirklens omkreds og areal\n\nSætning 3.6.1.1\n\n\n\nVinkler i tilknytning til cirklen\n\nCentervinkel\nPeriferivinkel\nSætning 3.6.2.1"
+  },
+  {
+    "objectID": "disposition/disposition1.html#gruppe-2",
+    "href": "disposition/disposition1.html#gruppe-2",
+    "title": "Geometri og trigonometri",
+    "section": "Gruppe 2",
+    "text": "Gruppe 2\n\nTangent\n\nDefinitionen\n\ncirkelbue\ntangerer\ntangentpunktet\n\n\n\n\nKorde\n\nDefinitionen\nsætning 3.6.4.1\n\n\n\nPilhøjde\n\nDefinitionen\nSætning 3.6.5.1"
+  },
+  {
+    "objectID": "disposition/disposition1.html#gruppe-3",
+    "href": "disposition/disposition1.html#gruppe-3",
+    "title": "Geometri og trigonometri",
+    "section": "Gruppe 3",
+    "text": "Gruppe 3\n\nSammenhæng mellem radius, pilhøjde og korde\n\nSætning 3.6.6.1\nEksempel 3.6.6.1\n\n\n\nCirkeludsnit\n\nDefinitionen\nSætning 3.6.7.1"
+  },
+  {
+    "objectID": "disposition/disposition1.html#gruppe-4",
+    "href": "disposition/disposition1.html#gruppe-4",
+    "title": "Geometri og trigonometri",
+    "section": "Gruppe 4",
+    "text": "Gruppe 4\n\nCirkelbue\n\nSætning 3.6.8.1\nEksempel 3.6.8.1\n\n\n\nCirkelafsnit\n\nDefinitionen\nSætning 3.6.9.1\nEksempel 3.6.9.1"
+  },
+  {
+    "objectID": "disposition/disposition1.html#gruppe-5",
+    "href": "disposition/disposition1.html#gruppe-5",
+    "title": "Geometri og trigonometri",
+    "section": "Gruppe 5",
+    "text": "Gruppe 5"
+  },
+  {
+    "objectID": "disposition/disposition1.html#den-indskrevne-cirkel",
+    "href": "disposition/disposition1.html#den-indskrevne-cirkel",
+    "title": "Geometri og trigonometri",
+    "section": "Den indskrevne cirkel",
+    "text": "Den indskrevne cirkel\n\nDefinitionen\nSætning 3.6.10.1"
+  },
+  {
+    "objectID": "disposition/disposition1.html#den-omskrevne-cirkel-og-den-regulære-polygon",
+    "href": "disposition/disposition1.html#den-omskrevne-cirkel-og-den-regulære-polygon",
+    "title": "Geometri og trigonometri",
+    "section": "Den omskrevne cirkel og den regulære polygon",
+    "text": "Den omskrevne cirkel og den regulære polygon\n\nSætning 3.6.11.1\nSætning 3.6.11.2\nEksempel 3.6.11.1"
   }
 ]
