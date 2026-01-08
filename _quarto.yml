@@ -13,7 +13,7 @@ website:
             href: information/ugentlig_repetition.qmd
       - text: "Projects"
         menu:
-          - text: "Jacobsstav"
+          - text: "Jakobsstav"
             href: projects/Jakobsstav_geometri/projekt.qmd
       - text: "Homework"
         menu:
@@ -21,6 +21,8 @@ website:
             href: homework/hjemmeopg_1/hjemmeopg_1.qmd
           - text: "Homework 2"
             href: homework/hjemmeopg_2/hjemmeopg_2.qmd
+          - text: "Homework 3"
+            href: homework/hjemmeopg_3/hjemmeopg_3.qmd
       - text: "Disposition"
         menu:
           - text: "Geometri og Trigonometri"

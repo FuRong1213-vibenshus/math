@@ -1,37 +1,118 @@
 ---
-title: "Jacobsstav"
+title: Geometri og trigonometri
 format:
-    html: 
-        code-fold: true
+  pdf:
+    colorlinks: true
 ---
 
-# Jacobsstav
+## Trekanten
 
-Jacobsstaven blev brugt fra 1300-tallet og frem til 1700-tallet til at måle solens højde over horisonten og dermed bestemme breddegrad til søs.  
-Instrumentet fungerer efter de samme principper som trigonometri i retvinklede trekanter: sammenhængen mellem **vinkel, afstand og højde**.
+- størrelser
+- *hjørner*, *vinkelspidser*, *sider*
+- *Højder*, *medianer*, *vinkelhalveringslinjer*
 
+### Den retvinklede trekant
 
-## Opgave 1: Teori og begreber
+- *Kateter*, *hypotenusen*
+- **Pythagoras' læresætning**
+    - bevis 
 
-Følgende punkter skal ses som **mulige** ting at skrive om i opgaven. Du skal **ikke skrive om det hele**, men vælge noget ud, som du kan forstå og forklare. 
+### Ensvinklede trekanter
 
-- Forklaring af hvad der forstås ved målestoksforholdet. 
-- Definition af sinus, cosinus og tangens - ud fra enhedscirklen og ud fra den retvinklede trekant.
-- Beregning af sider og vinkler i den retvinklede trekant.
-- Beregning af sider og vinkler i den vilkårlige trekant.
-- Udledning af formlen til beregning af areal af en trekant.
-- Udledning af sinusrelationen.
-- Udledning af cosinusrelationerne.
-
-## Opgave 2: 
+- *ensvinklede*, *ligedannede*
+- *målestoksoforholdet*, *proportionale*
 
 
-## Rapportkrav
+## Cosinus, sinus og tangens
 
-Din rapport skal indeholde:
-1. Forside og kort introduktion til projektet  
-2. Teori og bevis for formlerne  
-3. Beregninger og resultater (tabel + udregninger)  
-4. En beskrivelse af dit praktiske forsøg (instrument, metode, data)  
-5. Analyse af usikkerhed og vurdering af resultaterne  
-6. Konklusion
+- Enhedscirklen
+- Definition af cosinus, sinus og tangens
+- sammenhæng mellem cosinus, sinus og tangens
+
+### Enhedscirklen
+
+- definitionen
+- *retningspunkt P*
+
+### Cosinus, sinus og tangens
+
+- definitionen og omløbretninger
+- vinkler med fortegn
+- **grundrelationen**
+- *Radianer* og *grader*
+
+-------------------------
+
+
+### Arealet af en vilkårlig trekant
+
+- Sætning 3.5.1
+- Eksempel 3.5.1
+
+### Cirklens omkreds og areal
+
+- Sætning 3.6.1.1
+
+### Vinkler i tilknytning til cirklen
+
+- Centervinkel
+- Periferivinkel
+- Sætning 3.6.2.1
+
+----
+
+### Tangent
+
+- Definitionen
+    - cirkelbue
+    - tangerer
+    - tangentpunktet
+
+### Korde
+
+- Definitionen
+- sætning 3.6.4.1
+
+### Pilhøjde
+
+- Definitionen
+- Sætning 3.6.5.1
+
+----
+
+
+### Sammenhæng mellem radius, pilhøjde og korde
+
+- Sætning 3.6.6.1
+- Eksempel 3.6.6.1
+
+
+### Cirkeludsnit
+
+- Definitionen
+- Sætning 3.6.7.1
+
+----
+
+### Cirkelbue
+
+- Sætning 3.6.8.1
+- Eksempel 3.6.8.1 
+
+### Cirkelafsnit
+
+- Definitionen
+- Sætning 3.6.9.1
+- Eksempel 3.6.9.1
+
+----
+## Den indskrevne cirkel
+
+- Definitionen
+- Sætning 3.6.10.1
+
+## Den omskrevne cirkel og den regulære polygon
+
+- Sætning 3.6.11.1
+- Sætning 3.6.11.2
+- Eksempel 3.6.11.1

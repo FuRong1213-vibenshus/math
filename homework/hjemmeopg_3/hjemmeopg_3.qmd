@@ -1,0 +1,70 @@
+---
+title: "Hjemmeaflevering 2"
+format:
+  pdf:
+    engine: xelatex
+    number-sections: true
+    colorlinks: true
+---
+
+# Del 1
+
+## Opgave 1.6.3, 1.6.8
+
+## Opgave 1.7.13
+
+## Opgave 1.8.1, 1.8.3
+
+
+
+# Del 2
+
+## Mat B Opgave 3.4.16
+
+## Mat B Opgave 3.5.3
+
+## Opgave 1
+
+![](opgave1.PNG){width=85%}
+
+“Klippet” er fra bladet “Ingeniøren” og viser, hvordan et cirkelbump skal udformes ved
+gennemkørsel med forskellige hastigheder.
+Et cirkelbump skal udformes, således at en personbil kan køre over cirkelbumpet med
+en ønsket hastighed på 30 km/h.
+
+
+1. (*M*)Bestem ud fra tabellen cirkelbumpets radius og kordelængde.
+2. Bestem cirkelbumpets største højde $h_{max}$.
+3. Bestem cirkelbumpets højde $h_1$ når afstanden x = 1 meter.
+4. Bestem rumfanget af den materialemængde, der medgår til fremstilling af et cirkelbump på en 6 meter bred kørebane, når det forudsættes, at cirkelbumpets
+endeflader er lodrette.
+
+## Opgave 2
+
+![](opgave2.PNG){width=85%}
+
+
+Billedet viser iglo-hytter, som er indgået i et forsøg med hotelbyggeri i Ilulissat i Grønland. Figur 2 viser et snit gennem en iglo. Den krumme del mellem punkt A og punkt B er en cirkelbue med radius R=3,00 meter.
+
+![](opgave2.1.PNG){width=85%}
+
+![](opgave2.2.PNG){width=85%}
+
+
+1. Bestem vinkel v, se figur 2.
+2. Bestem buelængden mellem punkt A og punkt B.
+3. Figur 3 viser grundfladen i en anden type iglo-hytte. Grundfladen er opbygget som en regulær 12-kant. Grundfladearealet er på 25$m^2$. Bestem sidelængden s i grundfladen
+
+## Opgave 3
+
+![](opgave3.1.PNG){width=85%}
+
+Billedet viser en udluftningshætte på taget af et htx-byggeteknisk værksted.
+Den øverste del af udluftningshætten er udformet som to keglestubbe. Den ene keglestub med mål er vist på figur 4. Keglestubben er fremstillet af en tynd plade, og den udfoldede keglestub er vist som det “grå” område på figur 5.
+
+![](opgave3.2.PNG){width=85%}
+
+1. (M) Ved beregningerne ses der bort fra pladetydelsen. Bestem radius R.
+2. Bestem radius r, som er vist på figur 5.
+3. Bestem vinklen v, som er vist på figur 5.
+4. Bestem arealet af det “grå” område.
